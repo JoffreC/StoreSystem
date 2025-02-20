@@ -1,0 +1,14 @@
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\bin\Debug\net8.0\StoreSystema.Entity.deps.json
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\bin\Debug\net8.0\StoreSystema.Entity.runtimeconfig.json
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\bin\Debug\net8.0\StoreSystema.Entity.dll
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\bin\Debug\net8.0\StoreSystema.Entity.pdb
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.csproj.AssemblyReference.cache
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.AssemblyInfoInputs.cache
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.AssemblyInfo.cs
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.dll
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\refint\StoreSystema.Entity.dll
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.pdb
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\StoreSystema.Entity.genruntimeconfig.cache
+C:\Users\joffr\source\repos\StoreSystem\StoreSystema.Entity\obj\Debug\net8.0\ref\StoreSystema.Entity.dll
