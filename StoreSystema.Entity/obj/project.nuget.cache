@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bpifh3ETfpU=",
+  "dgSpecHash": "BvQFNwTUpss=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
+  "projectFilePath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joffr\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\joffr\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

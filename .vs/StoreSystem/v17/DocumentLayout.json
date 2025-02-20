@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEBDD8FD-5297-44BB-B79E-E5AAD8054E3B}|StoreSystem.DAL\\StoreSystem.DAL.csproj|c:\\users\\joffr\\source\\repos\\storesystem\\storesystem.dal\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBDD8FD-5297-44BB-B79E-E5AAD8054E3B}|StoreSystem.DAL\\StoreSystem.DAL.csproj|solutionrelative:storesystem.dal\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\Implementation\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreSystem.DAL\\Implementation\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBDD8FD-5297-44BB-B79E-E5AAD8054E3B}|StoreSystem.DAL\\StoreSystem.DAL.csproj|c:\\users\\joffr\\source\\repos\\storesystem\\storesystem.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBDD8FD-5297-44BB-B79E-E5AAD8054E3B}|StoreSystem.DAL\\StoreSystem.DAL.csproj|solutionrelative:storesystem.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreSystem.DAL\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|c:\\users\\joffr\\source\\repos\\storesystem\\storesystem.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|solutionrelative:storesystem.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.WebApplication\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreSystem.WebApplication\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|c:\\users\\joffr\\source\\repos\\storesystem\\storesystem.webapplication\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|solutionrelative:storesystem.webapplication\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.WebApplication\\Views\\Home\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreSystem.WebApplication\\Views\\Home\\Perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|c:\\users\\joffr\\source\\repos\\storesystem\\storesystem.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1910C300-6CC5-4881-B4F1-0F7F0CEDA013}|StoreSystem.WebApplication\\StoreSystem.WebApplication.csproj|solutionrelative:storesystem.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.WebApplication\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreSystem.WebApplication\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "StoreSystem.DAL\\Implementation\\GenericRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:57:07.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:57:07.983Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "StoreSystem.DAL\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:51:40.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:51:40.454Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "StoreSystem.WebApplication\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAH4AAAAAAAAAAAAqwI0AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T13:36:59.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:36:59.462Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "StoreSystem.WebApplication\\Views\\Home\\Perfil.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAowFsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T13:36:00.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:36:00.424Z"
             },
             {
               "$type": "Document",
@@ -94,8 +90,11 @@
               "RelativeToolTip": "StoreSystem.WebApplication\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:34:17.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:34:17.176Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj": {}
+    "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj": {
+    "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj",
         "projectName": "StoreSystem.BLL",
-        "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj",
+        "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj",
         "packagesPath": "C:\\Users\\joffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\obj\\",
+        "outputPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
-                "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj"
+              "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
+                "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj"
               },
-              "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
-                "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj"
+              "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
+                "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
+    "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj",
         "projectName": "StoreSystem.DAL",
-        "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj",
+        "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj",
         "packagesPath": "C:\\Users\\joffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\obj\\",
+        "outputPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
-                "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj"
+              "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
+                "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj": {
+    "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj",
         "projectName": "StoreSystem.IOC",
-        "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj",
+        "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.IOC\\StoreSystem.IOC.csproj",
         "packagesPath": "C:\\Users\\joffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.IOC\\obj\\",
+        "outputPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,11 +173,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj": {
-                "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj"
+              "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj": {
+                "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.BLL\\StoreSystem.BLL.csproj"
               },
-              "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
-                "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj"
+              "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj": {
+                "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystem.DAL\\StoreSystem.DAL.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
+    "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
         "projectName": "StoreSystem.Entity",
-        "projectPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
+        "projectPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\StoreSystem.Entity.csproj",
         "packagesPath": "C:\\Users\\joffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joffr\\source\\repos\\StoreSystem\\StoreSystema.Entity\\obj\\",
+        "outputPath": "C:\\Users\\joffr\\Source\\Repos\\StoreSystem\\StoreSystema.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
